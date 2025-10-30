@@ -1,0 +1,212 @@
+2025-10-30T09:52:00.058539 - 499 EANs carregados (coluna 'EAN').
+2025-10-30T09:52:31.221507 - Warning: goto base loja error: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.recibomdelivery.com.br/loja/162", waiting until "networkidle"
+
+2025-10-30T09:52:35.382754 - [1/499] Iniciando busca EAN: 7896098900208
+2025-10-30T09:52:39.159941 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:52:39.162607 - [2/499] Iniciando busca EAN: 7891022638004
+2025-10-30T09:52:43.420113 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:52:43.421807 - [3/499] Iniciando busca EAN: 7891022640007
+2025-10-30T09:52:47.238711 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:52:47.244401 - [4/499] Iniciando busca EAN: 7891022639001
+2025-10-30T09:52:51.759880 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:52:51.761743 - [5/499] Iniciando busca EAN: 7896098900239
+2025-10-30T09:52:55.592456 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:52:55.594613 - [6/499] Iniciando busca EAN: 7896098900253
+2025-10-30T09:52:59.772555 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:52:59.774585 - [7/499] Iniciando busca EAN: 7896098900215
+2025-10-30T09:53:03.821126 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:53:03.824181 - [8/499] Iniciando busca EAN: 7896098900222
+2025-10-30T09:53:08.392156 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:53:08.394909 - [9/499] Iniciando busca EAN: 7896098900277
+2025-10-30T09:53:12.248870 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:53:12.253098 - [10/499] Iniciando busca EAN: 7500435141987
+2025-10-30T09:53:16.223297 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:53:16.263354 - Salvo 10 linhas em resultado_recibom_detalhado.csv
+2025-10-30T09:53:16.265150 - [11/499] Iniciando busca EAN: 7891022860955
+2025-10-30T09:53:20.573470 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:53:20.574334 - [12/499] Iniciando busca EAN: 7891040204465
+2025-10-30T09:53:24.792816 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:53:24.793575 - [13/499] Iniciando busca EAN: 7891022100938
+2025-10-30T09:53:28.492736 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:53:28.493812 - [14/499] Iniciando busca EAN: 7891040222476
+2025-10-30T09:53:32.345979 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:53:32.346622 - [15/499] Iniciando busca EAN: 7891022101003
+2025-10-30T09:53:36.133365 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:53:36.134703 - [16/499] Iniciando busca EAN: 7896013105657
+2025-10-30T09:53:40.316124 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:53:40.317947 - [17/499] Iniciando busca EAN: 7896013100669
+2025-10-30T09:53:44.754065 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:53:44.754881 - [18/499] Iniciando busca EAN: 7896013100386
+2025-10-30T09:53:48.903919 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:53:48.905180 - [19/499] Iniciando busca EAN: 7896221600012
+2025-10-30T09:53:52.852757 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:53:52.854174 - [20/499] Iniciando busca EAN: 7891022100280
+2025-10-30T09:53:56.729298 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:53:56.754008 - Salvo 10 linhas em resultado_recibom_detalhado.csv
+2025-10-30T09:53:56.755952 - [21/499] Iniciando busca EAN: 7891022100990
+2025-10-30T09:54:01.229543 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:54:01.231137 - [22/499] Iniciando busca EAN: 7891022080025
+2025-10-30T09:54:04.887908 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:54:04.890628 - [23/499] Iniciando busca EAN: 7897744501176
+2025-10-30T09:54:08.552355 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:54:08.555694 - [24/499] Iniciando busca EAN: 7891024193006
+2025-10-30T09:54:12.788463 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:54:12.790185 - [25/499] Iniciando busca EAN: 7891024195307
+2025-10-30T09:54:16.517362 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:54:16.521237 - [26/499] Iniciando busca EAN: 7896098903308
+2025-10-30T09:54:20.653963 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:54:20.655397 - [27/499] Iniciando busca EAN: 7894650013502
+2025-10-30T09:54:24.770734 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:54:24.772208 - [28/499] Iniciando busca EAN: 7897000800814
+2025-10-30T09:54:29.350072 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:54:29.353733 - [29/499] Iniciando busca EAN: 7896098900604
+2025-10-30T09:54:33.243470 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:54:33.245116 - [30/499] Iniciando busca EAN: 7891035525230
+2025-10-30T09:54:36.854951 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:54:36.858975 - Salvo 10 linhas em resultado_recibom_detalhado.csv
+2025-10-30T09:54:36.861746 - [31/499] Iniciando busca EAN: 7891035618567
+2025-10-30T09:54:40.759954 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:54:40.761382 - [32/499] Iniciando busca EAN: 7896098905906
+2025-10-30T09:54:44.588788 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:54:44.590255 - [33/499] Iniciando busca EAN: 7896098905975
+2025-10-30T09:54:48.627463 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:54:48.632042 - [34/499] Iniciando busca EAN: 7898031174653
+2025-10-30T09:54:52.822718 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:54:52.824181 - [35/499] Iniciando busca EAN: 7896098905982
+2025-10-30T09:54:56.772683 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:54:56.776316 - [36/499] Iniciando busca EAN: 7896098906019
+2025-10-30T09:55:00.863219 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:55:00.865427 - [37/499] Iniciando busca EAN: 7891035040269
+2025-10-30T09:55:05.010565 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:55:05.015890 - [38/499] Iniciando busca EAN: 7891035325618
+2025-10-30T09:55:09.143941 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:55:09.146427 - [39/499] Iniciando busca EAN: 7891035040436
+2025-10-30T09:55:13.275156 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:55:13.279560 - [40/499] Iniciando busca EAN: 7894650003374
+2025-10-30T09:55:16.951360 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:55:16.958395 - Salvo 10 linhas em resultado_recibom_detalhado.csv
+2025-10-30T09:55:16.961292 - [41/499] Iniciando busca EAN: 7891035032004
+2025-10-30T09:55:21.547637 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:55:21.549173 - [42/499] Iniciando busca EAN: 7894650020074
+2025-10-30T09:55:25.717849 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:55:25.721531 - [43/499] Iniciando busca EAN: 7896013100324
+2025-10-30T09:55:30.391903 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:55:30.396771 - [44/499] Iniciando busca EAN: 7896013100331
+2025-10-30T09:55:34.406323 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:55:34.408863 - [45/499] Iniciando busca EAN: 7896110000176
+2025-10-30T09:55:38.332547 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:55:38.337709 - [46/499] Iniciando busca EAN: 7896110008653
+2025-10-30T09:55:42.077890 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:55:42.081185 - [47/499] Iniciando busca EAN: 7896110012261
+2025-10-30T09:55:45.889522 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:55:45.891509 - [48/499] Iniciando busca EAN: 7898962794142
+2025-10-30T09:55:49.624558 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:55:49.626144 - [49/499] Iniciando busca EAN: 7896110004679
+2025-10-30T09:55:53.566085 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:55:53.567577 - [50/499] Iniciando busca EAN: 7898962794166
+2025-10-30T09:55:58.014302 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:55:58.018278 - Salvo 10 linhas em resultado_recibom_detalhado.csv
+2025-10-30T09:55:58.019800 - [51/499] Iniciando busca EAN: 7896061916106
+2025-10-30T09:56:02.178729 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:56:02.180613 - [52/499] Iniciando busca EAN: 7896110010724
+2025-10-30T09:56:05.951102 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:56:05.952357 - [53/499] Iniciando busca EAN: 7896006413851
+2025-10-30T09:56:14.590278 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:56:14.592514 - [54/499] Iniciando busca EAN: 7896006400011
+2025-10-30T09:56:18.632714 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:56:18.635227 - [55/499] Iniciando busca EAN: 7898905100023
+2025-10-30T09:56:24.931224 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:56:24.932649 - [56/499] Iniciando busca EAN: 7898956358015
+2025-10-30T09:56:31.013537 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:56:31.015010 - [57/499] Iniciando busca EAN: 7891035800214
+2025-10-30T09:56:37.092014 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:56:37.093467 - [58/499] Iniciando busca EAN: 7891035285165
+2025-10-30T09:56:44.233913 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:56:44.235105 - [59/499] Iniciando busca EAN: 7891035285172
+2025-10-30T09:56:50.285362 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:56:50.286412 - [60/499] Iniciando busca EAN: 7891035249228
+2025-10-30T09:56:56.362728 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:56:56.365280 - Salvo 10 linhas em resultado_recibom_detalhado.csv
+2025-10-30T09:56:56.366340 - [61/499] Iniciando busca EAN: 7891035001956
+2025-10-30T09:57:14.197447 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:57:14.198615 - [62/499] Iniciando busca EAN: 7891035000270
+2025-10-30T09:57:20.267397 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:57:20.268304 - [63/499] Iniciando busca EAN: 7891035800207
+2025-10-30T09:57:26.329092 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:57:26.330490 - [64/499] Iniciando busca EAN: 7891150090804
+2025-10-30T09:57:33.450601 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:57:33.452015 - [65/499] Iniciando busca EAN: 7891150034341
+2025-10-30T09:57:39.541978 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:57:39.546123 - [66/499] Iniciando busca EAN: 7891022471007
+2025-10-30T09:57:45.616181 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:57:45.619169 - [67/499] Iniciando busca EAN: 7891022861044
+2025-10-30T09:57:51.712518 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:57:51.715018 - [68/499] Iniciando busca EAN: 7891150000971
+2025-10-30T09:57:58.803106 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:57:58.804928 - [69/499] Iniciando busca EAN: 7500435115827
+2025-10-30T09:58:04.851569 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:58:04.853496 - [70/499] Iniciando busca EAN: 7506339332643
+2025-10-30T09:58:10.990531 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:58:10.995889 - Salvo 10 linhas em resultado_recibom_detalhado.csv
+2025-10-30T09:58:10.998421 - [71/499] Iniciando busca EAN: 7896013106319
+2025-10-30T09:58:17.043288 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:58:17.044547 - [72/499] Iniciando busca EAN: 7500435153850
+2025-10-30T09:58:23.127916 - Possível captcha/bloqueio detectado após URL. Marcando BLOQUEADO.
+2025-10-30T09:58:23.128843 - [73/499] Iniciando busca EAN: 7506195143858
+2025-10-30 10:29:19,739 - \u274c Arquivo 'recibom_produtos.xlsx' n�o encontrado no diret�rio atual!
+2025-10-30 10:34:27,191 - \u2705 Arquivo 'produtos_recibom.xlsx' carregado (499 linhas).
+2025-10-30 10:34:32,554 - \U0001f310 P�gina inicial aberta com sucesso.
+2025-10-30 10:34:32,597 - Iniciando busca EAN: 7896098900208
+2025-10-30 10:39:56,740 - Captcha resolvido manualmente.
+2025-10-30 10:45:53,742 - Abrindo URL principal...
+2025-10-30 10:45:59,612 - Iniciando busca EAN: 7896098900208
+2025-10-30 10:46:02,143 - Iniciando busca EAN: 7891022638004
+2025-10-30 10:46:04,673 - Iniciando busca EAN: 7891022640007
+2025-10-30 10:46:07,194 - Iniciando busca EAN: 7891022639001
+2025-10-30 10:46:09,723 - Iniciando busca EAN: 7896098900239
+2025-10-30 10:46:12,249 - Iniciando busca EAN: 7896098900253
+2025-10-30 10:46:14,771 - Iniciando busca EAN: 7896098900215
+2025-10-30 10:46:17,290 - Iniciando busca EAN: 7896098900222
+2025-10-30 10:46:19,815 - Iniciando busca EAN: 7896098900277
+2025-10-30 10:46:22,362 - Iniciando busca EAN: 7500435141987
+2025-10-30 10:46:24,902 - Iniciando busca EAN: 7891022860955
+2025-10-30 10:46:27,455 - Iniciando busca EAN: 7891040204465
+2025-10-30 10:46:29,998 - Iniciando busca EAN: 7891022100938
+2025-10-30 10:46:32,539 - Iniciando busca EAN: 7891040222476
+2025-10-30 10:46:35,084 - Iniciando busca EAN: 7891022101003
+2025-10-30 10:46:37,647 - Iniciando busca EAN: 7896013105657
+2025-10-30 10:46:40,212 - Iniciando busca EAN: 7896013100669
+2025-10-30 10:46:42,772 - Iniciando busca EAN: 7896013100386
+2025-10-30 10:46:45,344 - Iniciando busca EAN: 7896221600012
+2025-10-30 10:46:47,904 - Iniciando busca EAN: 7891022100280
+2025-10-30 10:46:50,467 - Iniciando busca EAN: 7891022100990
+2025-10-30 10:46:53,034 - Iniciando busca EAN: 7891022080025
+2025-10-30 10:46:55,584 - Iniciando busca EAN: 7897744501176
+2025-10-30 10:46:58,142 - Iniciando busca EAN: 7891024193006
+2025-10-30 10:47:00,690 - Iniciando busca EAN: 7891024195307
+2025-10-30 10:47:03,240 - Iniciando busca EAN: 7896098903308
+2025-10-30 10:47:05,801 - Iniciando busca EAN: 7894650013502
+2025-10-30 10:47:08,352 - Iniciando busca EAN: 7897000800814
+2025-10-30 10:47:10,908 - Iniciando busca EAN: 7896098900604
+2025-10-30 10:47:13,462 - Iniciando busca EAN: 7891035525230
+2025-10-30 10:47:41,926 - Abrindo URL principal...
+2025-10-30 10:47:48,015 - Iniciando busca EAN: 7896098900208
+2025-10-30 10:48:06,645 - Iniciando busca EAN: 7891022638004
+2025-10-30 10:48:25,224 - Iniciando busca EAN: 7891022640007
+2025-10-30 10:48:43,819 - Iniciando busca EAN: 7891022639001
+2025-10-30 10:49:02,393 - Iniciando busca EAN: 7896098900239
+2025-10-30 10:49:20,966 - Iniciando busca EAN: 7896098900253
+2025-10-30 10:49:39,562 - Iniciando busca EAN: 7896098900215
+2025-10-30 10:49:58,126 - Iniciando busca EAN: 7896098900222
+2025-10-30 10:51:59,383 - Abrindo URL principal...
+2025-10-30 10:52:05,227 - Iniciando busca EAN: 7896098900208
+2025-10-30 10:52:23,822 - Iniciando busca EAN: 7891022638004
+2025-10-30 10:52:42,399 - Iniciando busca EAN: 7891022640007
+2025-10-30 10:53:00,974 - Iniciando busca EAN: 7891022639001
+2025-10-30 10:53:19,588 - Iniciando busca EAN: 7896098900239
+2025-10-30 10:53:38,185 - Iniciando busca EAN: 7896098900253
+2025-10-30 10:53:56,782 - Iniciando busca EAN: 7896098900215
+2025-10-30 10:54:15,364 - Iniciando busca EAN: 7896098900222
+2025-10-30 10:54:33,959 - Iniciando busca EAN: 7896098900277
